@@ -20,7 +20,5 @@ social: true
 
 I am a Ph.D. student in Electrical and Computer Engineering at the University of British Columbia, supervised by  
 <a href="https://tea.ece.ubc.ca/">Prof. Xiaoxiao Li</a>.  
-My research primarily focuses on **machine learning efficiency**.
-
 My research interests broadly include efficient machine learning models and algorithms.  
 I am always open to collaboration. Feel free to drop me an e-mail.
